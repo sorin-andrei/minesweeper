@@ -1,2 +1,2 @@
 # minesweeper
-Implementation of minesweeper in python
+Implementation of Minesweeper in python
