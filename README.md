@@ -45,4 +45,3 @@ In the future, this could be improved with
 * Fail-safe in case user clicks on the bomb at the start
 * Better looking interface
 * Settings menu to change the parameters of the game (Currently hardcoded)
-
